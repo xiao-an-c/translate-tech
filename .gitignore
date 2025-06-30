@@ -150,3 +150,5 @@ coverage/
 # Temporary files
 *.tmp
 *.temp
+
+llm-translator.mjs
